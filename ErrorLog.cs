@@ -6,7 +6,7 @@ using System.Runtime;
 using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.IO;
-namespace ClassLibrary2
+namespace ErrorLog
 {
     public static class ErrorLog
     {
